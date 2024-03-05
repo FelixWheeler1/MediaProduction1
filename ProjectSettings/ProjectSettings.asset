@@ -810,7 +810,7 @@ PlayerSettings:
   webGLPowerPreference: 2
   scriptingDefineSymbols:
     1: STARTER_ASSETS_PACKAGES_CHECKED
-    Standalone: STARTER_ASSETS_PACKAGES_CHECKED
+    Standalone: STARTER_ASSETS_PACKAGES_CHECKED;DREAMTECK_SPLINES
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend: {}
